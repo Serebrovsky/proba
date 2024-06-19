@@ -29,7 +29,8 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-/bbjbbbnbn
+//hgjhghgh
+//bbjbbbnbn
 //hjlkjlkjlk
 //agskdjgksajgkasjlfjasjfasjkasjgjsdgjasjgasjgjadsl
 @Composable
